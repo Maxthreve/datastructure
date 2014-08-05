@@ -1,5 +1,4 @@
-package edu.mcla.cs.trees;
-
+package 
 import java.util.LinkedList;
 import java.util.Queue;
 
