@@ -1,4 +1,4 @@
-package edu.mcla.cs.trees;
+package trees;
 
 public interface IBinaryTree<T extends Comparable<T>>
 {
