@@ -1,4 +1,4 @@
-package edu.mcla.cs.trees;
+package trees;
 
 public class BinaryTreeTest 
 {
